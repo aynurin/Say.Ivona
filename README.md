@@ -1,4 +1,4 @@
-﻿# IVONA
+﻿# Say.Ivona
 
 `Say.Ivona` is an implementation of [IVONA Text-to-Speech SaaS](http://www.ivona.com/en/saas/) REST API written in C#.
 
