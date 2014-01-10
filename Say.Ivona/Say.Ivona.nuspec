@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Say.Ivona.dll</id>
+    <version>1.0.0</version>
+    <authors>aynurin</authors>
+    <owners>aynurin</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/aynurin/Say.Ivona/blob/master/README.md</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ivona REST API C# implementation.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2014 Shavkat Aynurin</copyright>
+    <tags>ivona tts text-to-speach</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" />
+    </dependencies>
+  </metadata>
+</package>

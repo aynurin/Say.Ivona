@@ -2,6 +2,13 @@
 
 `Say.Ivona` is an implementation of [IVONA Text-to-Speech SaaS](http://www.ivona.com/en/saas/) REST API written in C#.
 
+## Installation
+
+ To install Say.Ivona.dll, run the following command in the [Package Manager Console](http://docs.nuget.org/docs/start-here/using-the-package-manager-console) 
+```
+PM> Install-Package Say.Ivona.dll
+```
+
 ## Usage
 
 ```c#

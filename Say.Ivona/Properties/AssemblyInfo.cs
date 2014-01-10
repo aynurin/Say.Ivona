@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 
 [assembly: AssemblyTitle("Say.Ivona")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Ivona REST API C# implementation: http://developer.ivona.com/ivona-tts-saas/saas-documentation/1-introduction")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Say")]
 [assembly: AssemblyProduct("Say.Ivona")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCopyright("Copyright © Shavkat Aynurin 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
