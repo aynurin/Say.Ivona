@@ -1,4 +1,6 @@
-﻿# Say.Ivona
+﻿Sorry to say, but this code seems to be deprecated with Ivone moving to Amazon hosted API. Try requesting their proprietary SDK at http://developer.ivona.com/.
+
+# Say.Ivona
 
 `Say.Ivona` is an implementation of [IVONA Text-to-Speech SaaS](http://www.ivona.com/en/saas/) REST API written in C#.
 
