@@ -1,4 +1,4 @@
-﻿Sorry to say, but this code seems to be deprecated with Ivone moving to Amazon hosted API. Try requesting their proprietary SDK at http://developer.ivona.com/.
+﻿Sorry to say, but this code seems to be deprecated with Ivona moving to Amazon hosted API. Try requesting their proprietary SDK at http://developer.ivona.com/.
 
 # Say.Ivona
 
